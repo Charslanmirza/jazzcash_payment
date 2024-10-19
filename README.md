@@ -1,4 +1,4 @@
-# jazzcash_payment_app
+# jazzcash_payment_flutter
 
 **Configure Android**
 
